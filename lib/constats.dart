@@ -1,0 +1,3 @@
+// 抽奖项目开头.
+const String FLOTTERY_DATA_KEY_PREFIX = "FLO_D";
+const String FLOTTERY_DATA_SELECTED_KEY = "FLO_SELECTED_KEY";
